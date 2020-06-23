@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shizhan-service-user-api" />
+        <module name="shizhan-service-comment-api" />
+        <module name="shizhan-service-collection-api" />
+        <module name="shizhan-service-order-api" />
+        <module name="shizhan-service-user" />
+        <module name="shizhan-common" />
+        <module name="shizhan-service-comment" />
+        <module name="shizhan-gateway-web" />
+        <module name="shizhan-service-collection" />
+        <module name="shizhan-common-db" />
+        <module name="shizhan-service-order" />
+        <module name="code-template" />
+        <module name="shizhan-eurake" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="code-template" target="1.5" />
+      <module name="collection" target="1.8" />
+      <module name="comment" target="1.8" />
+      <module name="shizhan-common" target="1.8" />
+      <module name="shizhan-common-db" target="1.8" />
+      <module name="shizhan-eurake" target="1.8" />
+      <module name="shizhan-gateway" target="1.8" />
+      <module name="shizhan-gateway-web" target="1.8" />
+      <module name="shizhan-order" target="1.8" />
+      <module name="shizhan-parent" target="1.8" />
+      <module name="shizhan-service" target="1.8" />
+      <module name="shizhan-service-api" target="1.8" />
+      <module name="shizhan-service-collection" target="1.8" />
+      <module name="shizhan-service-collection-api" target="1.8" />
+      <module name="shizhan-service-comment" target="1.8" />
+      <module name="shizhan-service-comment-api" target="1.8" />
+      <module name="shizhan-service-order" target="1.8" />
+      <module name="shizhan-service-order-api" target="1.8" />
+      <module name="shizhan-service-user" target="1.8" />
+      <module name="shizhan-service-user-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="collection" options="-parameters" />
+      <module name="comment" options="-parameters" />
+      <module name="shizhan-common" options="-parameters" />
+      <module name="shizhan-common-db" options="-parameters" />
+      <module name="shizhan-eurake" options="-parameters" />
+      <module name="shizhan-gateway" options="-parameters" />
+      <module name="shizhan-gateway-web" options="-parameters" />
+      <module name="shizhan-order" options="-parameters" />
+      <module name="shizhan-parent" options="-parameters" />
+      <module name="shizhan-service" options="-parameters" />
+      <module name="shizhan-service-api" options="-parameters" />
+      <module name="shizhan-service-collection" options="-parameters" />
+      <module name="shizhan-service-collection-api" options="-parameters" />
+      <module name="shizhan-service-comment" options="-parameters" />
+      <module name="shizhan-service-comment-api" options="-parameters" />
+      <module name="shizhan-service-order" options="-parameters" />
+      <module name="shizhan-service-order-api" options="-parameters" />
+      <module name="shizhan-service-user" options="-parameters" />
+      <module name="shizhan-service-user-api" options="-parameters" />
+    </option>
+  </component>
+</project>

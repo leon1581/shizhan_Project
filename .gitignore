@@ -1,0 +1,7 @@
+# Project exclude paths
+/code-template/target/
+/shizhan-parent/shizhan-common/target/
+/shizhan-parent/shizhan-eurake/target/
+/shizhan-parent/shizhan-gateway/shizhan-gateway-web/target/
+/shizhan-parent/shizhan-service/shizhan-service-comment/target/
+/shizhan-parent/shizhan-service-api/shizhan-service-comment-api/target/

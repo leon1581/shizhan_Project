@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/code-template/code-template.iml" filepath="$PROJECT_DIR$/code-template/code-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-common/shizhan-common.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-common/shizhan-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-common-db/shizhan-common-db.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-common-db/shizhan-common-db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-eurake/shizhan-eurake.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-eurake/shizhan-eurake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-gateway/shizhan-gateway.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-gateway/shizhan-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-gateway/shizhan-gateway-web/shizhan-gateway-web.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-gateway/shizhan-gateway-web/shizhan-gateway-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-parent.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-service/shizhan-service.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-service/shizhan-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-service-api/shizhan-service-api.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-service-api/shizhan-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-service/shizhan-service-collection/shizhan-service-collection.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-service/shizhan-service-collection/shizhan-service-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-service-api/shizhan-service-collection-api/shizhan-service-collection-api.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-service-api/shizhan-service-collection-api/shizhan-service-collection-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-service/shizhan-service-comment/shizhan-service-comment.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-service/shizhan-service-comment/shizhan-service-comment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-service-api/shizhan-service-comment-api/shizhan-service-comment-api.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-service-api/shizhan-service-comment-api/shizhan-service-comment-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-service/shizhan-service-order/shizhan-service-order.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-service/shizhan-service-order/shizhan-service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-service-api/shizhan-service-order-api/shizhan-service-order-api.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-service-api/shizhan-service-order-api/shizhan-service-order-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-service/shizhan-service-user/shizhan-service-user.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-service/shizhan-service-user/shizhan-service-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shizhan-parent/shizhan-service-api/shizhan-service-user-api/shizhan-service-user-api.iml" filepath="$PROJECT_DIR$/shizhan-parent/shizhan-service-api/shizhan-service-user-api/shizhan-service-user-api.iml" />
+    </modules>
+  </component>
+</project>
